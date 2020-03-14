@@ -1,2 +1,2 @@
-﻿  Assembling Color_Matrix.asm...
-  ColorMatrix.vcxproj -> C:\Users\Josh\Desktop\AssemblyClass\Color Matrix\ColorMatrix\Debug\ColorMatrix.exe
+﻿  LINK : C:\Users\Josh\Desktop\AssemblyClass\Color Matrix2\Assembly-Color-Matrix\Debug\ColorMatrix.exe not found or not built by the last incremental link; performing full link
+  ColorMatrix.vcxproj -> C:\Users\Josh\Desktop\AssemblyClass\Color Matrix2\Assembly-Color-Matrix\Debug\ColorMatrix.exe
